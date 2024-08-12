@@ -1,4 +1,6 @@
-<img src="imagen/logo.png">
+<div style="text-align: center;">
+    <img src="imagen/logo.png">
+</div>
 
 # Matemáticas para la ciencia de datos
 
