@@ -1,3 +1,5 @@
+<img src="imagen/logo.png">
+
 # Matemáticas para la ciencia de datos
 
 ## Primera tarea
